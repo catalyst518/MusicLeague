@@ -55,4 +55,4 @@ tracks_df = pd.DataFrame(tracks_data)
 tracks_df.to_csv(args.csv, mode='a', index=False, header=False)
 
 print(f"Combined playlist updated successfully!")
-print(f'Combined playlist tracks added to args.csv!')
+print(f'Combined playlist tracks added to {args.csv}!')
