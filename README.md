@@ -16,6 +16,12 @@
 
 [CSV](Plat%20Pond%20-%20Season%203.csv)
 
+# Season 4
+
+[Spotify](https://open.spotify.com/playlist/5RD9nhH6pHd2zwx1F5L4bI)
+
+[CSV](Plat%20Pond%20-%20Season%204.csv)
+
 # All Seasons
 
 [Spotify](https://open.spotify.com/playlist/3z55lnzJADuk9UkWCzGbmw)
